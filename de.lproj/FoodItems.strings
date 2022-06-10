@@ -23,117 +23,117 @@
 "banhMiMain.AccessibilityPageTitle" = "Sandwiches";
 
 /* Grilled Pork Sandwich */
-"grilledPorkBanhMi.Subtitle" = "Grilled Pork Sandwich";
-"grilledPorkBanhMi.AccessibilityPageTitle" = "Grilled Pork Sandwich";
+"grilledPorkBanhMi.Subtitle" = "Gegrilltes Schweinefleisch-Sandwich";
+"grilledPorkBanhMi.AccessibilityPageTitle" = "Gegrilltes Schweinefleisch-Sandwich";
 
 /* Vietnamese Meatball Sandwich */
-"meatballBanhMi.Subtitle" = "Vietnamese Meatball Sandwich";
-"meatballBanhMi.AccessibilityPageTitle" = "Vietnamese Meatball Sandwich";
+"meatballBanhMi.Subtitle" = "Vietnamesisches Fleischbällchen-Sandwich";
+"meatballBanhMi.AccessibilityPageTitle" = "Vietnamesisches Fleischbällchen-Sandwich";
 
 /* Tofu Sandwich */
 "tofuBanhMi.Subtitle" = "Tofu Sandwich";
 "tofuBanhMi.AccessibilityPageTitle" = "Tofu Sandwich";
 
 /* Vietnamese Crepes */
-"crepe.Subtitle" = "Vietnamese Crêpes";
-"crepe.AccessibilityPageTitle" = "Vietnamese Crepes";
+"crepe.Subtitle" = "Vietnamesische Crêpes";
+"crepe.AccessibilityPageTitle" = "Vietnamesische Crepes";
 
 /* Grilled Pork & Egg Roll Vermicelli Noodles */
-"grilledPorkVermicelli.Subtitle" = "Grilled Pork & Egg Roll Vermicelli Noodles";
-"grilledPorkVermicelli.AccessibilityPageTitle" = "Grilled Pork and Egg Roll Vermicelli Noodles";
+"grilledPorkVermicelli.Subtitle" = "Gegrilltes Schweinefleisch, Frühlingsrollen & Vermicelli Nudeln";
+"grilledPorkVermicelli.AccessibilityPageTitle" = "Gegrilltes Schweinefleisch, Frühlingsrollen & Vermicelli Nudeln";
 
 /* Egg Rolls (Platter) */
-"eggRollPlatter.Subtitle" = "Egg Rolls";
-"eggRollPlatter.AccessibilityPageTitle" = "Egg Rolls";
+"eggRollPlatter.Subtitle" = "Frühlingsrollen";
+"eggRollPlatter.AccessibilityPageTitle" = "Frühlingsrollen";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf */
-"BrokenRiceGrilledPorkEggMeatloaf.Subtitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
-"BrokenRiceGrilledPorkEggMeatloaf.AccessibilityPageTitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
+"BrokenRiceGrilledPorkEggMeatloaf.Subtitle" = "Bruchreis mit gegrilltem Schweinefleisch und Vietnamesischem Hackbraten";
+"BrokenRiceGrilledPorkEggMeatloaf.AccessibilityPageTitle" = "Bruchreis mit gegrilltem Schweinefleisch und Vietnamesischem Hackbraten";
 
 /* Shaken Beef Main */
-"shakenBeefMain.Subtitle" = "Shaken Beef Dishes";
-"shakenBeefMain.AccessibilityPageTitle" = "Shaken Beef Dishes";
+"shakenBeefMain.Subtitle" = "Geschütteltes Rindfleisch";
+"shakenBeefMain.AccessibilityPageTitle" = "Geschütteltes Rindfleisch";
 
 /* Shaken Beef Salad */
-"shakenBeefSalad.Subtitle" = "Shaken Beef Salad";
-"shakenBeefSalad.AccessibilityPageTitle" = "Shaken Beef Salad";
+"shakenBeefSalad.Subtitle" = "Geschüttelter Rindfleisch Salat";
+"shakenBeefSalad.AccessibilityPageTitle" = "Geschüttelter Rindfleisch Salat";
 
 /* Shaken Beef with White Rice */
-"shakenBeefWhiteRice.Subtitle" = "Shaken Beef with White Rice";
-"shakenBeefWhiteRice.AccessibilityPageTitle" = "Shaken Beef with White Rice";
+"shakenBeefWhiteRice.Subtitle" = "Geschütteltes Rindfleisch mit weißem Reis";
+"shakenBeefWhiteRice.AccessibilityPageTitle" = "Geschütteltes Rindfleisch mit weißem Reis";
 
 /* Shaken Beef with Tomato Rice */
-"shakenBeefWithTomatoRice.Subtitle" = "Shaken Beef with Tomato Rice";
-"shakenBeefWithTomatoRice.AccessibilityPageTitle" = "Shaken Beef with Tomato Rice";
+"shakenBeefWithTomatoRice.Subtitle" = "Geschütteltes Rindfleisch mit Tomatenreis";
+"shakenBeefWithTomatoRice.AccessibilityPageTitle" = "Geschütteltes Rindfleisch mit Tomatenreis";
 
 /* Shaken Beef with Fried Rice */
-"ShakenBeefWithFriedRice.Subtitle" = "Shaken Beef with Fried Rice";
-"ShakenBeefWithFriedRice.AccessibilityPageTitle" = "Shaken Beef with Fried Rice";
+"ShakenBeefWithFriedRice.Subtitle" = "Geschütteltes Rindfleisch mit gebratenem Reis";
+"ShakenBeefWithFriedRice.AccessibilityPageTitle" = "Geschütteltes Rindfleisch mit gebratenem Reis";
 
 /* Fried Rice Main */
-"friedRice.Subtitle" = "Fried Rice Dishes";
-"friedRice.AccessibilityPageTitle" = "Fried Rice Dishes";
+"friedRice.Subtitle" = "Gebratene Reisgerichte";
+"friedRice.AccessibilityPageTitle" = "Gebratene Reisgerichte";
 
 /* Shrimp Fried Rice */
-"shrimpFriedRice.Subtitle" = "Shrimp Fried Rice";
-"shrimpFriedRice.AccessibilityPageTitle" = "Shrimp Fried Rice";
+"shrimpFriedRice.Subtitle" = "Gebratener Reis mit Garnelen";
+"shrimpFriedRice.AccessibilityPageTitle" = "Gebratener Reis mit Garnelen";
 
 /* Chicken Fried Rice */
-"chickenFriedRice.Subtitle" = "Chicken Fried Rice";
-"chickenFriedRice.AccessibilityPageTitle" = "Chicken Fried Rice";
+"chickenFriedRice.Subtitle" = "Gebratener Reis mit Hähnchenfleisch";
+"chickenFriedRice.AccessibilityPageTitle" = "Gebratener Reis mit Hähnchenfleisch";
 
 /* Beef Fried Rice */
-"beefFriedRice.Subtitle" = "Beef Fried Rice";
-"beefFriedRice.AccessibilityPageTitle" = "Beef Fried Rice";
+"beefFriedRice.Subtitle" = "Gebratener Reis mit Rindfleisch";
+"beefFriedRice.AccessibilityPageTitle" = "Gebratener Reis mit Rindfleisch";
 
 /* Chinese Sausage Fried Rice */
-"chineseSausageFriedRice.Subtitle" = "Chinese Sausage Fried Rice";
-"chineseSausageFriedRice.AccessibilityPageTitle" = "Chinese Sausage Fried Rice";
+"chineseSausageFriedRice.Subtitle" = "Gebratener Reis mit Chinesischer Wurst";
+"chineseSausageFriedRice.AccessibilityPageTitle" = "Gebratener Reis mit Chinesischer Wurst";
 
 /* Chicken Curry Main */
-"chickenCurryMain.Subtitle" = "Chicken Curry";
-"chickenCurryMain.AccessibilityPageTitle" = "Chicken Curry";
+"chickenCurryMain.Subtitle" = "Hähnchen-Curry";
+"chickenCurryMain.AccessibilityPageTitle" = "Hähnchen-Curry";
 
 /* Chicken Curry with Baguette */
-"chickenCurryWithBaguette.Subtitle" = "Chicken Curry with Baguette";
-"chickenCurryWithBaguette.AccessibilityPageTitle" = "Chicken Curry with Baguette";
+"chickenCurryWithBaguette.Subtitle" = "Hähnchen-Curry mit Baguette";
+"chickenCurryWithBaguette.AccessibilityPageTitle" = "Hähnchen-Curry mit Baguette";
 
 /* Chicken Curry Noodle Soup */
-"chickenCurryNoodleSoup.Subtitle" = "Chicken Curry Noodle Soup";
-"chickenCurryNoodleSoup.AccessibilityPageTitle" = "Chicken Curry Noodle Soup";
+"chickenCurryNoodleSoup.Subtitle" = "Hähnchen-Curry Nudelsuppe";
+"chickenCurryNoodleSoup.AccessibilityPageTitle" = "Hähnchen-Curry Nudelsuppe";
 
 /* Chicken Curry with Rice */
-"chickenCurryWithRice.Subtitle" = "Chicken Curry with Rice";
-"chickenCurryWithRice.AccessibilityPageTitle" = "Chicken Curry with Rice";
+"chickenCurryWithRice.Subtitle" = "Hähnchen-Curry mit Reis";
+"chickenCurryWithRice.AccessibilityPageTitle" = "Hähnchen-Curry mit Reis";
 
 /* Pork Belly Stir-fry Main */
-"porkBellyStirfryMain.Subtitle" = "Pork Belly Stir-fry";
-"porkBellyStirfryMain.AccessibilityPageTitle" = "Pork Belly Stir-fry";
+"porkBellyStirfryMain.Subtitle" = "Gebratener Schweinebauch";
+"porkBellyStirfryMain.AccessibilityPageTitle" = "Gebratener Schweinebauch";
 
 /* Pork Belly with Spring Onion */
-"porkBellyWithSpringOnion.Subtitle" = "Pork Belly with Spring Onion";
-"porkBellyWithSpringOnion.AccessibilityPageTitle" = "Pork Belly with Spring Onion";
+"porkBellyWithSpringOnion.Subtitle" = "Schweinebauch mit Frühlingszwiebeln";
+"porkBellyWithSpringOnion.AccessibilityPageTitle" = "Schweinebauch mit Frühlingszwiebeln";
 
 /* Pork Belly with Green Bean */
-"porkBellyWithGreenBean.Subtitle" = "Pork Belly with Green Beans";
-"porkBellyWithGreenBean.AccessibilityPageTitle" = "Pork Belly with Green Beans";
+"porkBellyWithGreenBean.Subtitle" = "Schweinebauch mit Grünen Bohnen";
+"porkBellyWithGreenBean.AccessibilityPageTitle" = "Schweinebauch mit Grünen Bohnen";
 
 /* Pork Belly with Asparagus */
-"porkBellyWithAsparagus.Subtitle" = "Pork Belly with Asparagus";
-"porkBellyWithAsparagus.AccessibilityPageTitle" = "Pork Belly with Asparagus";
+"porkBellyWithAsparagus.Subtitle" = "Schweinebauch mit Grünem Spargel";
+"porkBellyWithAsparagus.AccessibilityPageTitle" = "Schweinebauch mit Grünem Spargel";
 
 /* Pork Belly with Bell Pepper and Onion */
-"porkBellyWithBellPepperAndOnion.Subtitle" = "Pork Belly with Bell Pepper and Onion";
-"porkBellyWithBellPepperAndOnion.AccessibilityPageTitle" = "Pork Belly with Bell Pepper and Onion";
+"porkBellyWithBellPepperAndOnion.Subtitle" = "Schweinebauch mit Paprika und Zwiebeln";
+"porkBellyWithBellPepperAndOnion.AccessibilityPageTitle" = "Schweinebauch mit Paprika und Zwiebeln";
 
 /* Beef Pho */
-"beefPho.Subtitle" = "Beef Phở";
-"beefPho.AccessibilitySubtitle" = "Beef Pho";
-"beefPho.AccessibilityPageTitle" = "Beef Pho";
+"beefPho.Subtitle" = "Phở mit Rindfleisch";
+"beefPho.AccessibilitySubtitle" = "Pho mit Rindfleisch";
+"beefPho.AccessibilityPageTitle" = "Pho mit Rindfleisch";
 
 /* Chicken Glass Noodle Soup */
-"chickenGlassNoodleSoup.Subtitle" = "Chicken Glass Noodle Soup";
-"chickenGlassNoodleSoup.AccessibilityPageTitle" = "Chicken Glass Noodle Soup";
+"chickenGlassNoodleSoup.Subtitle" = "Glasnudelsuppe mit Hähnchenfleisch";
+"chickenGlassNoodleSoup.AccessibilityPageTitle" = "Glasnudelsuppe mit Hähnchenfleisch";
 
 /* Avocado Smoothie */
 "avocadoSmoothie.Subtitle" = "Avocado Smoothie";
@@ -144,135 +144,135 @@
 "mangoSmoothie.AccessibilityPageTitle" = "Mango Smoothie";
 
 /* BBQ Pork Ribs */
-"bbqPorkRibs.Subtitle" = "BBQ Pork Ribs";
-"bbqPorkRibs.AccessibilityPageTitle" = "BBQ Pork Ribs";
+"bbqPorkRibs.Subtitle" = "Barbecue Schweinerippchen";
+"bbqPorkRibs.AccessibilityPageTitle" = "Barbecue Schweinerippchen";
 
 /* Vietnamese Coffee */
-"vietnameseCoffee.Subtitle" = "Vietnamese Coffee";
-"vietnameseCoffee.AccessibilityPageTitle" = "Vietnamese Coffee";
+"vietnameseCoffee.Subtitle" = "Vietnamesischer Kaffee";
+"vietnameseCoffee.AccessibilityPageTitle" = "Vietnamesischer Kaffee";
 
 /* Spring Roll Main */
-"springRoll.Subtitle" = "Spring Roll Dishes";
-"springRoll.AccessibilityPageTitle" = "Spring Roll Dishes";
+"springRoll.Subtitle" = "Sommerrollen";
+"springRoll.AccessibilityPageTitle" = "Sommerrollen";
 
 /* Shrimp and Pork Spring Roll */
-"shrimpPorkSpringRoll.Subtitle" = "Shrimp and Pork Spring Roll";
-"shrimpPorkSpringRoll.AccessibilityPageTitle" = "Shrimp and Pork Spring Roll";
+"shrimpPorkSpringRoll.Subtitle" = "Sommerrolle mit Garnelen und Schweinefleisch";
+"shrimpPorkSpringRoll.AccessibilityPageTitle" = "Sommerrolle mit Garnelen und Schweinefleisch";
 
 /* Grilled Pork Spring Roll */
-"grilledPorkSpringRoll.Subtitle" = "Grilled Pork Spring Roll";
-"grilledPorkSpringRoll.AccessibilityPageTitle" = "Grilled Pork Spring Roll";
+"grilledPorkSpringRoll.Subtitle" = "Sommerrolle mit gegrilltem Schweinefleisch";
+"grilledPorkSpringRoll.AccessibilityPageTitle" = "Sommerrolle mit gegrilltem Schweinefleisch";
 
 /* Jicama Spring Roll */
-"jicamaSpringRoll.Subtitle" = "Jicama Spring Roll";
-"jicamaSpringRoll.AccessibilityPageTitle" = "Jicama Spring Roll";
+"jicamaSpringRoll.Subtitle" = "Sommerrolle mit Yambohne";
+"jicamaSpringRoll.AccessibilityPageTitle" = "Sommerrolle mit Yambohne";
 
 /* Banana Fritters */
-"bananaFritters.Subtitle" = "Banana Fritters";
-"bananaFritters.AccessibilityPageTitle" = "Banana Fritters";
+"bananaFritters.Subtitle" = "Bananenkrapfen";
+"bananaFritters.AccessibilityPageTitle" = "Bananenkrapfen";
 
 /* Hot Pot */
-"hotPot.Subtitle" = "Hot Pot";
-"hotPot.AccessibilityPageTitle" = "Hot Pot";
+"hotPot.Subtitle" = "Feuertopf";
+"hotPot.AccessibilityPageTitle" = "Feuertopf";
 
 /* Vietnamese Meatballs */
-"meatballs.Subtitle" = "Vietnamese Meatballs";
-"meatballs.AccessibilityPageTitle" = "Vietnamese Meatballs";
+"meatballs.Subtitle" = "Vietnamesische Fleischbällchen";
+"meatballs.AccessibilityPageTitle" = "Vietnamesische Fleischbällchen";
 
 
 // MARK: Recipes Tab
 
 /* Crepe Batter */
-"crepeBatter.Subtitle" = "Vietnamese Crêpe Batter";
-"crepeBatter.AccessibilityPageTitle" = "Vietnamese Crepe Batter";
+"crepeBatter.Subtitle" = "Vietnamesischer Pfannkuchenteig";
+"crepeBatter.AccessibilityPageTitle" = "Vietnamesischer Pfannkuchenteig";
 
 /* Egg Rolls */
-"eggRolls.Subtitle" = "Egg Rolls";
-"eggRolls.AccessibilityPageTitle" = "Egg Rolls";
+"eggRolls.Subtitle" = "Frühlingsrollen";
+"eggRolls.AccessibilityPageTitle" = "Frühlingsrollen";
 
 /* Egg Meatloaf */
-"eggMeatloaf.Subtitle" = "Egg Meatloaf";
-"eggMeatloaf.AccessibilityPageTitle" = "Egg Meatloaf";
+"eggMeatloaf.Subtitle" = "Vietnamesischer Hackbraten";
+"eggMeatloaf.AccessibilityPageTitle" = "Vietnamesischer Hackbraten";
 
 /* Annatto Oil */
-"annattoOil.Subtitle" = "Annatto Oil";
-"annattoOil.AccessibilityPageTitle" = "Annatto Oil";
+"annattoOil.Subtitle" = "Annatto Öl";
+"annattoOil.AccessibilityPageTitle" = "Annatto Öl";
 
 /* Pickled Carrot and Daikon */
-"pickledCarrotDaikon.Subtitle" = "Pickled Carrot and Daikon";
-"pickledCarrotDaikon.AccessibilityPageTitle" = "Pickled Carrot and Daikon";
+"pickledCarrotDaikon.Subtitle" = "Eingelegte Möhre und Rettich";
+"pickledCarrotDaikon.AccessibilityPageTitle" = "Eingelegte Möhre und Rettich";
 
 /* Scallion & Oil Garnish */
-"scallionsOil.Subtitle" = "Scallion & Oil Garnish";
-"scallionsOil.AccessibilityPageTitle" = "Scallion & Oil Garnish";
+"scallionsOil.Subtitle" = "Frühlingszwiebel-Öl";
+"scallionsOil.AccessibilityPageTitle" = "Frühlingszwiebel-Öl";
 
 /* Mixed Fish Sauce */
-"nuocMam.Subtitle" = "Mixed Fish Sauce";
-"nuocMam.AccessibilityPageTitle" = "Mixed Fish Sauce";
+"nuocMam.Subtitle" = "Vietnamesische Dipsauce";
+"nuocMam.AccessibilityPageTitle" = "Vietnamesische Dipsauce";
 
 /* Leafy Greens */
-"leafyGreens.Subtitle" = "Leafy Greens";
-"leafyGreens.AccessibilityPageTitle" = "Leafy Greens";
+"leafyGreens.Subtitle" = "Blattgemüse";
+"leafyGreens.AccessibilityPageTitle" = "Blattgemüse";
 
 /* Mayonnaise */
 "mayo.Subtitle" = "Mayonnaise";
 "mayo.AccessibilityPageTitle" = "Mayonnaise";
 
 /* Grilled Pork */
-"grilledPork.Subtitle" = "Grilled Pork";
-"grilledPork.AccessibilityPageTitle" = "Grilled Pork";
+"grilledPork.Subtitle" = "Gegrilltes Schweinefleisch";
+"grilledPork.AccessibilityPageTitle" = "Gegrilltes Schweinefleisch";
 
 /* Pork Belly with Oyster Sauce */
-"porkBellyWithOysterSauce.Subtitle" = "Pork Belly with Oyster Sauce";
-"porkBellyWithOysterSauce.AccessibilityPageTitle" = "Pork Belly with Oyster Sauce";
+"porkBellyWithOysterSauce.Subtitle" = "Schweinebauch mit Austernsauce";
+"porkBellyWithOysterSauce.AccessibilityPageTitle" = "Schweinebauch mit Austernsauce";
 
 /* Shaken Beef Entree */
-"shakenBeefEntree.Subtitle" = "Shaken Beef";
-"shakenBeefEntree.AccessibilityPageTitle" = "Shaken Beef";
+"shakenBeefEntree.Subtitle" = "Geschütteltes Rindfleisch";
+"shakenBeefEntree.AccessibilityPageTitle" = "Geschütteltes Rindfleisch";
 
 /* Lime Dipping Sauce */
-"limeDippingSauce.Subtitle" = "Lime Dipping Sauce";
-"limeDippingSauce.AccessibilityPageTitle" = "Lime Dipping Sauce";
+"limeDippingSauce.Subtitle" = "Limetten Dipsauce";
+"limeDippingSauce.AccessibilityPageTitle" = "Limettendipsauce";
 
 /* Egg Fried Rice */
-"eggFriedRice.Subtitle" = "Egg Fried Rice";
-"eggFriedRice.AccessibilityPageTitle" = "Egg Fried Rice";
+"eggFriedRice.Subtitle" = "Gebratener Eierreis";
+"eggFriedRice.AccessibilityPageTitle" = "Gebratener Eierreis";
 
 /* Tomato Rice */
-"tomatoRice.Subtitle" = "Tomato Rice";
-"tomatoRice.AccessibilityPageTitle" = "Tomato Rice";
+"tomatoRice.Subtitle" = "Tomatenreis";
+"tomatoRice.AccessibilityPageTitle" = "Tomatenreis";
 
 /* Curry Powder */
-"curryPowder.Subtitle" = "Curry Powder";
-"curryPowder.AccessibilityPageTitle" = "Curry Powder";
+"curryPowder.Subtitle" = "Currypulver";
+"curryPowder.AccessibilityPageTitle" = "Currypulver";
 
 /* Chicken Curry Entree */
-"chickenCurryEntree.Subtitle" = "Chicken Curry";
-"chickenCurryEntree.AccessibilityPageTitle" = "Chicken Curry";
+"chickenCurryEntree.Subtitle" = "Hähnchen-Curry";
+"chickenCurryEntree.AccessibilityPageTitle" = "Hähnchen-Curry";
 
 /* Fried Crispy Shallots */
-"friedCrispyShallots.Subtitle" = "Fried Crispy Shallots";
-"friedCrispyShallots.AccessibilityPageTitle" = "Fried Crispy Shallots";
+"friedCrispyShallots.Subtitle" = "Röstschalotten";
+"friedCrispyShallots.AccessibilityPageTitle" = "Röstschalotten";
 
 /* Steamed Mung Beans */
-"steamedMungBeans.Subtitle" = "Steamed Mung Beans";
-"steamedMungBeans.AccessibilityPageTitle" = "Steamed Mung Beans";
+"steamedMungBeans.Subtitle" = "Gedünstete Mungobohnen";
+"steamedMungBeans.AccessibilityPageTitle" = "Gedünstete Mungobohnen";
 
 /* Peanut Sauce */
-"peanutSauce.Subtitle" = "Peanut Sauce";
-"peanutSauce.AccessibilityPageTitle" = "Peanut Sauce";
+"peanutSauce.Subtitle" = "Erdnusssauce";
+"peanutSauce.AccessibilityPageTitle" = "Erdnusssauce";
 
 /* Tempura Batter */
-"tempuraBatter.Subtitle" = "Tempura Batter";
-"tempuraBatter.AccessibilityPageTitle" = "Tempura Batter";
+"tempuraBatter.Subtitle" = "Tempurateig";
+"tempuraBatter.AccessibilityPageTitle" = "Tempurateig";
 
 /* Pickled Shallots */
-"pickledShallots.Subtitle" = "Pickled Shallots";
-"pickledShallots.AccessibilityPageTitle" = "Pickled Shallots";
+"pickledShallots.Subtitle" = "Eingelegte Schalotten";
+"pickledShallots.AccessibilityPageTitle" = "Eingelegte Schalotten";
 
 /* Fried Tofu */
-"friedTofu.Subtitle" = "Fried Tofu";
-"friedTofu.AccessibilityPageTitle" = "Fried Tofu";
+"friedTofu.Subtitle" = "Gebratener Tofu";
+"friedTofu.AccessibilityPageTitle" = "Gebratener Tofu";
 
 
 // MARK: Ingredients Tab
@@ -282,48 +282,48 @@
 "baguette.AccessibilityPageTitle" = "Baguette";
 
 /* Carrot */
-"carrot.Subtitle" = "Carrot";
-"carrot.AccessibilityPageTitle" = "Carrot";
+"carrot.Subtitle" = "Möhre";
+"carrot.AccessibilityPageTitle" = "Möhre";
 
 /* Broken Rice */
-"brokenRice.Subtitle" = "Broken Rice";
-"brokenRice.AccessibilityPageTitle" = "Broken Rice";
+"brokenRice.Subtitle" = "Bruchreis";
+"brokenRice.AccessibilityPageTitle" = "Bruchreis";
 
 /* Daikon */
-"daikon.Subtitle" = "Daikon";
-"daikon.AccessibilityPageTitle" = "Daikon";
+"daikon.Subtitle" = "Rettich";
+"daikon.AccessibilityPageTitle" = "Rettich";
 
 /* Cucumber */
-"cucumber.Subtitle" = "Cucumber";
-"cucumber.AccessibilityPageTitle" = "Cucumber";
+"cucumber.Subtitle" = "Gurke";
+"cucumber.AccessibilityPageTitle" = "Gurke";
 
 /* Fish Sauce */
-"fishSauce.Subtitle" = "Fish Sauce";
-"fishSauce.AccessibilityPageTitle" = "Fish Sauce";
+"fishSauce.Subtitle" = "Fischsauce";
+"fishSauce.AccessibilityPageTitle" = "Fischsauce";
 
 /* Lemongrass */
-"lemongrass.Subtitle" = "Lemongrass";
-"lemongrass.AccessibilityPageTitle" = "Lemon-grass";
+"lemongrass.Subtitle" = "Zitronengras";
+"lemongrass.AccessibilityPageTitle" = "Zitronengras";
 
 /* Perilla */
 "perilla.Subtitle" = "Perilla";
 "perilla.AccessibilityPageTitle" = "Perilla";
 
 /* Pork Belly */
-"porkBelly.Subtitle" = "Pork Belly";
-"porkBelly.AccessibilityPageTitle" = "Pork Belly";
+"porkBelly.Subtitle" = "Schweinebauch";
+"porkBelly.AccessibilityPageTitle" = "Schweinebauch";
 
 /* Oyster Sauce */
-"oysterSauce.Subtitle" = "Oyster Sauce";
-"oysterSauce.AccessibilityPageTitle" = "Oyster Sauce";
+"oysterSauce.Subtitle" = "Austernsauce";
+"oysterSauce.AccessibilityPageTitle" = "Austernsauce";
 
 /* Rice */
-"rice.Subtitle" = "Rice";
-"rice.AccessibilityPageTitle" = "Rice";
+"rice.Subtitle" = "Reis";
+"rice.AccessibilityPageTitle" = "Reis";
 
 /* Soy Sauce */
-"soySauce.Subtitle" = "Soy Sauce";
-"soySauce.AccessibilityPageTitle" = "Soy Sauce";
+"soySauce.Subtitle" = "Sojasauce";
+"soySauce.AccessibilityPageTitle" = "Sojasauce";
 
 /* Taro */
 "taro.Subtitle" = "Taro";
@@ -334,252 +334,252 @@
 "tofu.AccessibilityPageTitle" = "Tofu";
 
 /* Chinese Sausage */
-"chineseSausage.Subtitle" = "Chinese Sausage";
-"chineseSausage.AccessibilityPageTitle" = "Chinese Sausage";
+"chineseSausage.Subtitle" = "Chinesische Wurst";
+"chineseSausage.AccessibilityPageTitle" = "Chinesische Wurst";
 
 
 // MARK: Entries with no dedicated page
 
 
 /* Agave Syrup */
-"agaveSyrup.Subtitle" = "Agave Syrup";
+"agaveSyrup.Subtitle" = "Agavensirup";
 
 /* Aluminum Foil */
-"aluminumFoil.Subtitle" = "Aluminum Foil";
+"aluminumFoil.Subtitle" = "Aluminiumfolie";
 
 /* Asparagus */
-"asparagus.Subtitle" = "Asparagus";
+"asparagus.Subtitle" = "Grüner Spargel";
 
 /* Avocado */
 "avocado.Subtitle" = "Avocado";
 
 /* Bean Sprouts */
-"beanSprouts.Subtitle" = "Bean Sprouts";
+"beanSprouts.Subtitle" = "Bohnensprossen";
 
 /* Bean Thread Noodles */
-"beanThreads.Subtitle" = "Glass Noodles";
+"beanThreads.Subtitle" = "Glassnudeln";
 
 /* Beef */
-"beef.Subtitle" = "Beef";
+"beef.Subtitle" = "Rindfleisch";
 
 /* Beef Bones */
-"beefBones.Subtitle" = "Beef Bones";
+"beefBones.Subtitle" = "Rinderknochen";
 
 /* Beef Brisket */
-"beefBrisket.Subtitle" = "Beef Brisket";
+"beefBrisket.Subtitle" = "Brustspitz";
 
 /* Bell Pepper */
-"bellPepper.Subtitle" = "Bell Pepper";
+"bellPepper.Subtitle" = "Paprika";
 
 /* Broccoli */
-"broccoli.Subtitle" = "Broccoli";
+"broccoli.Subtitle" = "Brokkoli";
 
 /* Chicken Bouillon */
-"chickenBouillon.Subtitle" = "Chicken Bouillon";
+"chickenBouillon.Subtitle" = "Hühnerbrühe";
 
 /* Chicken Drumette */
-"chickenDrumette.Subtitle" = "Chicken Drumette";
+"chickenDrumette.Subtitle" = "Hähnchenschenkel";
 
 /* Chili */
 "chili.Subtitle" = "Chili";
 
 /* Chili Powder */
-"chiliPowder.Subtitle" = "Chili Powder";
+"chiliPowder.Subtitle" = "Chilipulver";
 
 /* Cilantro */
-"cilantro.Subtitle" = "Cilantro";
+"cilantro.Subtitle" = "Koriander";
 
 /* Cinnamon */
-"cinnamon.Subtitle" = "Cinnamon";
+"cinnamon.Subtitle" = "Zimt";
 
 /* Cloves */
-"cloves.Subtitle" = "Cloves";
+"cloves.Subtitle" = "Gewürznelken";
 
 /* Coconut Milk */
-"coconutMilk.Subtitle" = "Coconut Milk";
+"coconutMilk.Subtitle" = "Kokosmilch";
 
 /* Coriander */
-"coriander.Subtitle" = "Coriander";
+"coriander.Subtitle" = "Koriandersamen";
 
 /* Corn Starch */
-"cornStarch.Subtitle" = "Cornstarch";
+"cornStarch.Subtitle" = "Maisstärke";
 
 /* Dried Wood Ear Mushroom */
-"driedMushroom.Subtitle" = "Dried Wood Ear Mushroom";
+"driedMushroom.Subtitle" = "Getrocknete Mu-Err Pilze";
 
 /* Egg */
-"egg.Subtitle" = "Egg";
+"egg.Subtitle" = "Ei";
 
 /* Egg Roll Wrappers */
-"eggRollWrappers.Subtitle" = "Egg Roll Wrappers";
+"eggRollWrappers.Subtitle" = "Frühlingsrollenteig";
 
 /* Egg Yolk */
-"eggYolk.Subtitle" = "Egg Yolk";
+"eggYolk.Subtitle" = "Eigelb";
 
 /* Filet Mignon */
-"filetMignonBeef.Subtitle" = "Filet Mignon";
+"filetMignonBeef.Subtitle" = "Rinderfilet";
 
 /* Garlic */
-"garlic.Subtitle" = "Garlic";
+"garlic.Subtitle" = "Knoblauch";
 
 /* Garlic Powder */
-"garlicPowder.Subtitle" = "Garlic Powder";
+"garlicPowder.Subtitle" = "Knoblauchpulver";
 
 /* Ginger */
-"ginger.Subtitle" = "Ginger";
+"ginger.Subtitle" = "Ingwer";
 
 /* Green Beans */
-"greenBeans.Subtitle" = "Green Beans";
+"greenBeans.Subtitle" = "Grüne Bohnen";
 
 /* Spring Onion */
-"greenOnion.Subtitle" = "Spring Onion";
+"greenOnion.Subtitle" = "Frühlingszwiebel";
 
 /* Ground Coffee */
-"groundCoffee.Subtitle" = "Ground Coffee";
+"groundCoffee.Subtitle" = "Gemahlener Kaffee";
 
 /* Ground Cumin */
-"groundCumin.Subtitle" = "Ground Cumin";
+"groundCumin.Subtitle" = "Gemahlener Kreuzkümmel";
 
 /* Ground Pork */
-"groundPork.Subtitle" = "Ground Pork";
+"groundPork.Subtitle" = "Schweinehackfleisch";
 
 /* Half and Half Milk */
-"halfAndHalfMilk.Subtitle" = "Half and Half Milk";
+"halfAndHalfMilk.Subtitle" = "Kaffeesahne";
 
 /* Hoisin Sauce */
-"hoisinSauce.Subtitle" = "Hoisin Sauce";
+"hoisinSauce.Subtitle" = "Hoisin-Sauce";
 
 /* Ice */
-"ice.Subtitle" = "Ice";
+"ice.Subtitle" = "Eis";
 
 /* Italian Herbs */
-"italianHerbs.Subtitle" = "Italian Herbs";
+"italianHerbs.Subtitle" = "Italienische Kräuter";
 
 /* Jalapeño */
-"jalapeno.Subtitle" = "Jalapeño";
+"jalapeno.Subtitle" = "Peperoni";
 
 /* Jicama */
-"jicama.Subtitle" = "Jicama";
+"jicama.Subtitle" = "Yambohne";
 
 /* Kraft Original Barbecue Sauce */
 "kraftOriginalBarbecueSauce.Subtitle" = "Kraft Original Barbecue Sauce";
 
 /* Lettuce */
-"lettuce.Subtitle" = "Lettuce";
+"lettuce.Subtitle" = "Kopfsalat";
 
 /* Lime */
-"lime.Subtitle" = "Lime";
+"lime.Subtitle" = "Limette";
 
 /* Mango */
 "mango.Subtitle" = "Mango";
 
 /* McCormick Curry Powder */
-"mcCormickCurryPowder.Subtitle" = "McCormick Curry Powder";
+"mcCormickCurryPowder.Subtitle" = "McCormick Currypulver";
 
 /* Mint */
-"mint.Subtitle" = "Mint";
+"mint.Subtitle" = "Minze";
 
 /* MSG */
-"msg.Subtitle" = "MSG";
+"msg.Subtitle" = "Glutamat";
 
 /* Oil */
-"oil.Subtitle" = "Oil";
+"oil.Subtitle" = "Öl";
 
 /* Onion */
-"onion.Subtitle" = "Sweet Onion";
+"onion.Subtitle" = "Zwiebel";
 
 /* Onion Powder */
-"onionPowder.Subtitle" = "Onion Powder";
+"onionPowder.Subtitle" = "Zwiebelpulver";
 
 /* Peanuts */
-"peanut.Subtitle" = "Peanuts";
+"peanut.Subtitle" = "Erdnüsse";
 
 /* Peanut Butter */
-"peanutButter.Subtitle" = "Peanut Butter";
+"peanutButter.Subtitle" = "Erdnussbutter";
 
 /* Peas and Carrots */
-"peasAndCarrots.Subtitle" = "Peas and Carrots";
+"peasAndCarrots.Subtitle" = "Erbsen und Möhren";
 
 /* Phin Filter */
-"phinFilter.Subtitle" = "Phin Filter";
+"phinFilter.Subtitle" = "Vietnamesischer Kaffeefilter";
 
 /* Black Pepper */
-"pepper.Subtitle" = "Black Pepper";
+"pepper.Subtitle" = "Schwarzer Pfeffer";
 
 /* Phở Garnish */
-"phoGarnish.Subtitle" = "Pho Garnish";
+"phoGarnish.Subtitle" = "Pho Beilagen";
 
 /* Phở Noodles */
-"phoNoodles.Subtitle" = "Pho Noodles";
+"phoNoodles.Subtitle" = "Pho Nudeln";
 
 /* Pork */
-"rawPork.Subtitle" = "Pork";
+"rawPork.Subtitle" = "Schweinefleisch";
 
 /* Pork Belly */
-"porkBelly.Subtitle" = "Pork Belly";
+"porkBelly.Subtitle" = "Schweinebauch";
 
 /* Pork Butt */
-"porkButt.Subtitle" = "Pork Butt";
+"porkButt.Subtitle" = "Schweinekamm";
 
 /* Pork Ribs */
-"porkRibs.Subtitle" = "Pork Ribs";
+"porkRibs.Subtitle" = "Schweinerippchen";
 
 /* Rice Flour */
-"riceFlour.Subtitle" = "Rice Flour";
+"riceFlour.Subtitle" = "Reismehl";
 
 /* Rice Paper */
-"ricePaper.Subtitle" = "Rice Paper";
+"ricePaper.Subtitle" = "Reispapier";
 
 /* Sake */
-"sake.Subtitle" = "Japanese Sake";
+"sake.Subtitle" = "Japanischer Sake";
 
 /* Salad */
-"salad.Subtitle" = "Salad";
+"salad.Subtitle" = "Salat";
 
 /* Salt */
-"salt.Subtitle" = "Salt";
+"salt.Subtitle" = "Salz";
 
 /* Shallot */
-"shallot.Subtitle" = "Shallot";
+"shallot.Subtitle" = "Schalotte";
 
 /* Shrimp */
-"shrimp.Subtitle" = "Shrimp";
+"shrimp.Subtitle" = "Garnele";
 
 /* Sugar */
-"sugar.Subtitle" = "Sugar";
+"sugar.Subtitle" = "Zucker";
 
 /* Sweetened Condensed Milk */
-"sweetenedCondensedMilk.Subtitle" = "Sweetened Condensed Milk";
+"sweetenedCondensedMilk.Subtitle" = "Gezuckerte Kondensmilch";
 
 /* Sweet Potato */
-"sweetPotato.Subtitle" = "Sweet Potato";
+"sweetPotato.Subtitle" = "Süßkartoffel";
 
 /* Sriracha Hot Sauce */
-"srirachaHotSauce.Subtitle" = "Sriracha Hot Sauce";
+"srirachaHotSauce.Subtitle" = "Sriracha-Chilisauce";
 
 /* Star Anise */
-"starAnise.Subtitle" = "Star Anise";
+"starAnise.Subtitle" = "Echter Sternanis";
 
 /* Thai Basil */
-"thaiBasil.Subtitle" = "Thai Basil";
+"thaiBasil.Subtitle" = "Thai-Basilikum";
 
 /* Tomato */
-"tomato.Subtitle" = "Tomato";
+"tomato.Subtitle" = "Tomate";
 
 /* Tomato Paste */
-"tomatoPaste.Subtitle" = "Tomato Paste";
+"tomatoPaste.Subtitle" = "Tomatenmark";
 
 /* Turmeric */
-"turmeric.Subtitle" = "Turmeric";
+"turmeric.Subtitle" = "Kurkuma";
 
 /* Vermicelli Rice Noodles */
-"vermicelliNoodles.Subtitle" = "Vermicelli Rice Noodles";
+"vermicelliNoodles.Subtitle" = "Vermicelli Reisnudeln";
 
 /* White Vinegar */
-"vinegar.Subtitle" = "White Vinegar";
+"vinegar.Subtitle" = "Tafelessig";
 
 /* Water */
-"water.Subtitle" = "Water";
+"water.Subtitle" = "Wasser";
 
 /* White Rice */
-"whiteRice.Subtitle" = "White Rice";
+"whiteRice.Subtitle" = "Weißer Reis";
