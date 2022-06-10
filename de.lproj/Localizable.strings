@@ -10,55 +10,55 @@
 // MARK: Common Headings
 
 /* The Heading for Note sections */
-"Heading.Note" = "Note";
+"Heading.Note" = "Notiz";
 
 /* The Heading for Ingredients sections */
-"Heading.Ingredients" = "Ingredients";
+"Heading.Ingredients" = "Zutaten";
 
 /* The Heading for All Dishes sections */
-"Heading.AllDishes" = "All Dishes";
+"Heading.AllDishes" = "Alle Gerichte";
 
 /* The Heading for Recipe Of The Week sections */
-"Heading.RecipeOfTheWeek" = "Recipe of the Week";
+"Heading.RecipeOfTheWeek" = "Rezept der Woche";
 
 /* The Heading for New and Updated sections */
-"Heading.NewAndUpdated" = "New and Updated";
+"Heading.NewAndUpdated" = "Neu und Aktualisiert";
 
 /* The Heading for All Recipes sections */
-"Heading.AllRecipes" = "All Recipes";
+"Heading.AllRecipes" = "Alle Rezepte";
 
 /* The Heading for Dipping Sauces sections */
-"Heading.DippingSauces" = "Dipping Sauces";
+"Heading.DippingSauces" = "Dip-Saucen";
 
 /* The Heading for Instructions sections */
-"Heading.Instructions" = "Instructions";
+"Heading.Instructions" = "Zubereitung";
 
 /* The Heading for Terminology (VoiceOver) */
-"Heading.Terminology" = "Terminology";
+"Heading.Terminology" = "Begrifflichkeiten";
 
 /* The Heading for Variants sections */
-"Heading.Variants" = "Variants";
+"Heading.Variants" = "Varianten";
 
 /* The Heading for Variations sections */
-"Heading.Variations" = "Variations";
+"Heading.Variations" = "Variationen";
 
 /* The Heading for Tips sections */
-"Heading.Tips" = "Tips";
+"Heading.Tips" = "Tipps";
 
 /* The Heading for Types sections */
-"Heading.Types" = "Types";
+"Heading.Types" = "Typen";
 
 /* The Heading for Brands sections */
-"Heading.Brands" = "Brands";
+"Heading.Brands" = "Marken";
 
 /* The Heading for How To sections */
-"Heading.HowTo" = "How To";
+"Heading.HowTo" = "Anleitung";
 
 /* The Heading for Used In sections */
-"Heading.UsedIn" = "Used In";
+"Heading.UsedIn" = "Genutzt in";
 
 /* The Heading for Part Of sections */
-"Heading.PartOf" = "Part Of";
+"Heading.PartOf" = "Bestandteil von";
 
 /*
  The following are used instead of images on various pages when the user must have the contents read to them.
@@ -68,49 +68,49 @@
 "Heading.Info" = "Info";
 
 /* The Image Action Hint for full page images (VoiceOver) */
-"Heading.Image.Hint" = "Scroll down to learn more.";
+"Heading.Image.Hint" = "Scroll nach unten um mehr zu erfahren.";
 
 /* The Heading for Step 1 (VoiceOver) */
-"Heading.Step.1" = "Step 1";
+"Heading.Step.1" = "Schritt 1";
 
 /* The Heading for Step 2 (VoiceOver) */
-"Heading.Step.2" = "Step 2";
+"Heading.Step.2" = "Schritt 2";
 
 /* The Heading for Step 3 (VoiceOver) */
-"Heading.Step.3" = "Step 3";
+"Heading.Step.3" = "Schritt 3";
 
 /* The Heading for Step 4 (VoiceOver) */
-"Heading.Step.4" = "Step 4";
+"Heading.Step.4" = "Schritt 4";
 
 /* The Heading for Step 5 (VoiceOver) */
-"Heading.Step.5" = "Step 5";
+"Heading.Step.5" = "Schritt 5";
 
 /* The Heading for Step 6 (VoiceOver) */
-"Heading.Step.6" = "Step 6";
+"Heading.Step.6" = "Schritt 6";
 
 /* The Heading for Step 7 (VoiceOver) */
-"Heading.Step.7" = "Step 7";
+"Heading.Step.7" = "Schritt 7";
 
 /* The Heading for Step 8 (VoiceOver) */
-"Heading.Step.8" = "Step 8";
+"Heading.Step.8" = "Schritt 8";
 
 /* The Heading for Step 9 (VoiceOver) */
-"Heading.Step.9" = "Step 9";
+"Heading.Step.9" = "Schritt 9";
 
 /* The Heading for Step 10 (VoiceOver) */
-"Heading.Step.10" = "Step 10";
+"Heading.Step.10" = "Schritt 10";
 
 /* Back Button */
-"Page.Navigation.Back" = "Back";
+"Page.Navigation.Back" = "Zurück";
 
 /* Play Vietnamese Term Audio (VoiceOver) */
-"PlayAudio.Accessibility" = "Read Vietnamese Term.";
+"PlayAudio.Accessibility" = "Lies die Vietnamesische Bezeichnung.";
 
 /* Share View Content */
-"ShareView.Content" = "Did you try the recipe? Don't forget to share photos of it using hashtag #NotPho!";
+"ShareView.Content" = "Hast du das Rezept ausprobiert? Teile gerne ein paar Fotos davon mit dem Hashtag #NotPho!";
 
 /* Share View Content (VoiceOver) */
-"ShareView.AccessibilityContent" = "Did you try the recipe? Don't forget to share photos of it using hashtag Not Pho!";
+"ShareView.AccessibilityContent" = "Hast du das Rezept ausprobiert? Teile gerne ein paar Fotos davon mit dem Hashtag Not Pho!";
 
 /* Coming Soon Message */
 "ComingSoon.Message" = "Coming Soon!";
@@ -122,76 +122,76 @@
 "HomeScreen.Page.Title" = "Not Phở";
 
 /* Home Screen Page Subtitle */
-"HomeScreen.Page.Subtitle" = "An Exploration of Vietnamese Cuisine";
+"HomeScreen.Page.Subtitle" = "Eine Erkundung der Vietnamesischen Küche";
 
 /* Home Screen Page Accessibility Title */
 "HomeScreen.Page.AccessibilityTitle" = "Not Pho";
 
 /* Home Screen Page Content Accessibility */
-"HomeScreen.Page.Content.Accessibility" = "Map of Vietnam";
+"HomeScreen.Page.Content.Accessibility" = "Karte Vietnams";
 
 
 // MARK: - # Regions:
 
 /* North Vietnam Page Title */
-"NorthernDishes.Page.Title" = "North Vietnam";
+"NorthernDishes.Page.Title" = "Nordvietnam";
 
 /* North Vietnam Page Subtitle */
 "NorthernDishes.Page.Subtitle" = "";
 
 /* North Vietnam Page Accessibility Title */
-"NorthernDishes.Page.AccessibilityTitle" = "North Vietnam";
+"NorthernDishes.Page.AccessibilityTitle" = "Nordvietnam";
 
 /* North Vietnam Page Content Accessibility */
-"NorthernDishes.Page.Content.Accessibility" = "These are some popular dishes from Northern Vietnam.";
+"NorthernDishes.Page.Content.Accessibility" = "Das sind einige beliebte Gerichte aus Nordvietnam.";
 
 /* North Vietnam Content Accessibility */
-"NorthernDishes.Content.Accessibility" = "Dishes from Northern Vietnam.";
+"NorthernDishes.Content.Accessibility" = "Gerichte aus Nordvietnam.";
 
 /* North Vietnam Introduction 1 */
-"NorthernDishes.Introduction.1" = "In Northern Vietnam, due to colder climate, production of spices is limited. As a result, the food in this region is lighter and more well-balanced in flavor. In the past when meats like chicken, pork, and beef were not readily available, the locals would use seafood and crab was a favorite.";
+"NorthernDishes.Introduction.1" = "Aufgrund der kälteren klimatischen Bedingungen im Norden Vietnams ist der Anbau von Gewürzen begrenzt. Daraus resultiert, dass das Essen in der Region geschmacklich leichter und ausgeglichener daherkommt. Da Fleisch wie Hähnchen, Schwein und Rind früher nicht leicht erhältlich war, haben die Bewohner zudem eine Vorliebe für Meeresfrüchte und Krabben entwickelt.";
 
 /* North Vietnam Introduction 2 */
-"NorthernDishes.Introduction.2" = "Most of Vietnamese cuisine originated from Northern and Central Vietnam, and as people immigrated to the South, they brought with them their native dishes. As time passes, the people from the South adopted those dishes and added their own flavors. Most Vietnamese dishes that are sold outside of Vietnam today have the Southern twists to them because right after the Vietnam War many people from the South immigrated aboard in hoping for a better life.";
+"NorthernDishes.Introduction.2" = "Große Teile der vietnamesischen Küche haben ihren Ursprung in Nord- und Zentralvietnam und als Menschen nach Süden einwanderten, brachten sie ihre einheimischen Gerichte mit. Im Laufe der Zeit wurden diese Gerichte im Süden nach eigenen Geschmacksrichtungen abgewandelt. Die meisten vietnamesischen Speisen, die heutzutage außerhalb Vietnams verkauft werden, zeichnen eben jene südlichen Facetten aus, weil direkt nach dem Vietnamkrieg viele Menschen in der Hoffnung auf ein besseres Leben ausgewandert sind.";
 
 /* Central Vietnam Page Title */
-"CentralDishes.Page.Title" = "Central Vietnam";
+"CentralDishes.Page.Title" = "Zentralvietnam";
 
 /* Central Vietnam Page Subtitle */
 "CentralDishes.Page.Subtitle" = "";
 
 /* Central Vietnam Page Accessibility Title */
-"CentralDishes.Page.AccessibilityTitle" = "Central Vietnam";
+"CentralDishes.Page.AccessibilityTitle" = "Zentralvietnam";
 
 /* Central Vietnam Page Content Accessibility */
-"CentralDishes.Page.Content.Accessibility" = "These are some popular dishes from Central Vietnam.";
+"CentralDishes.Page.Content.Accessibility" = "Das sind einige beliebte Gerichte aus Zentralvietnam.";
 
 /* Central Vietnam Content Accessibility */
-"CentralDishes.Content.Accessibility" = "Dishes from Central Vietnam.";
+"CentralDishes.Content.Accessibility" = "Gerichte aus Zentralvietnam.";
 
 /* Central Vietnam Introduction */
-"CentralDishes.Introduction" = "In Central Vietnam, due to its mountainous terrain, production of spices is abundance which give rise to much spicier food compared to other regions. Hue in Central Vietnam was the capital of the last dynasty so the food in this region was heavily influenced by the royal cuisine making the food more decorative and colorful.";
+"CentralDishes.Introduction" = "In Zentralvietnam ist dem bergigen Terrain ein besonderer Reichtum an Gewürzen und folglich würzigeren Speisen als im Rest des Landes zu verdanken. Hue in Zentralvietnam ist zudem die ehemalige Hauptstadt der letzten Königsdynastie, wodurch die Küche stark durch royale Opulenz beeinflusst ist und das Essen folglich sehr dekorativ und farbenfroh daherkommt.";
 
 /* South Vietnam Page Title */
-"SouthernDishes.Page.Title" = "South Vietnam";
+"SouthernDishes.Page.Title" = "Südvietnam";
 
 /* South Vietnam Page Subtitle */
 "SouthernDishes.Page.Subtitle" = "";
 
 /* South Vietnam Page Accessibility Title */
-"SouthernDishes.Page.AccessibilityTitle" = "South Vietnam";
+"SouthernDishes.Page.AccessibilityTitle" = "Südvietnam";
 
 /* South Vietnam Page Content Accessibility */
-"SouthernDishes.Page.Content.Accessibility" = "These are some popular dishes from Southern Vietnam.";
+"SouthernDishes.Page.Content.Accessibility" = "Das sind einige beliebte Gerichte aus Südvietnam.";
 
 /* South Vietnam Content Accessibility */
-"SouthernDishes.Content.Accessibility" = "Dishes from Southern Vietnam.";
+"SouthernDishes.Content.Accessibility" = "Gerichte aus Südvietnam.";
 
 /* South Vietnam Introduction */
-"SouthernDishes.Introduction" = "In Southern Vietnam, the warm climate and fertile soil make it the perfect condition for growing fruits, vegetables, and livestock. As a result, the food in this region is very flavorful with a focus on vegetable and fresh herbs. Southern Vietnam is also influenced by its neighbors like Thailand and Cambodia, which introduced the usage of coconut milk in the cuisine giving rise to sweeter food.";
+"SouthernDishes.Introduction" = "In Südvietnam ergeben das warme Klima und die fruchtbaren Böden die perfekten Konditionen, um Obst und Gemüse anzubauen und Vieh zu halten. Dadurch ist das Essen der Region sehr schmackhaft und hat einen Fokus auf Gemüse und frische Kräuter. Das südliche Vietnam ist außerdem durch seine Nachbarn wie Thailand und Kambodscha beeinflusst, wodurch die Verwendung von Kokosmilch in der Küche auch zu teils süßeren Speisen führt.";
 
 /* Dishes Suggestion */
-"Dishes.Suggestion" = "Below are the dishes that originated from this region so give them a try!";
+"Dishes.Suggestion" = "Die folgenden Gerichte stammen aus dieser Region, also probier sie aus!";
 
 
 // MARK: - # Vietnamese Food Tab:
